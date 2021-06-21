@@ -3,7 +3,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Kenny! Welcome to my profile 🤗 -->
 
 ### ⭐ &nbsp;Featured
-* [BonanzaBot](https://github.com/WoahKenny/BonanzaBot) - Economy Based Discord Bot
+* [🗿 Golem](https://github.com/WoahKenny/Golem) - Open Source Discord Bot
 
 ### 👨🏻‍💻 &nbsp;About Me
 
