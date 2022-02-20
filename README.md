@@ -7,7 +7,7 @@
 
 🎓 &nbsp;I'm currently studying Web Application Development via [w3schools](https://courses.w3schools.com/).\
 🌱 &nbsp;I look forward to learning more about Software Development and Game Development in the near future.\
-✉️ &nbsp;If you have any questions send me an email at woahkennyyyy@gmail.com!\
+✉️ &nbsp;If you have any questions send me an email at woahkennyyyy@gmail.com!
 
 ### 🛠 &nbsp;Languages and Tools
 
