@@ -28,3 +28,7 @@
 -----
 
 Credits: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), [Aditya Vikram Singh](https://github.com/AVS1508), [Readme Profile Templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+
+-----
+
+![Random Joke](https://readme-jokes.vercel.app/api)
