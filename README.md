@@ -1,7 +1,7 @@
 
 
 ### ⭐ &nbsp;Featured
-* [👟 Golem](https://github.com/WoahKenny/TerrasparkIn1.3) - Terraspark In 1.3 Terraria Mod
+* [👟 TerrasparkIn1.3](https://github.com/WoahKenny/TerrasparkIn1.3) - Terraspark In 1.3 Terraria Mod
 
 ### 👨🏻‍💻 &nbsp;About Me
 
