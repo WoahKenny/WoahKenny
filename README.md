@@ -1,4 +1,4 @@
- ## 👋 &nbsp;Hey there! I'm Kenny! Welcome to my profile 🤗 
+
 
 ### ⭐ &nbsp;Featured
 * [🗿 Golem](https://github.com/WoahKenny/Golem) - Open Source Discord Bot
@@ -24,7 +24,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![WoahKenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=WoahKenny&count_private=true&theme=ayu-mirage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoahKenny&layout=compact&theme=ayu-mirage) 
 
 -----
 
