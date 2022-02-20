@@ -9,6 +9,8 @@
 🌱 &nbsp;I look forward to learning more about Software Development and Game Development in the near future.\
 ✉️ &nbsp;If you have any questions send me an email at woahkennyyyy@gmail.com!
 
+![Random Joke](https://readme-jokes.vercel.app/api)
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
