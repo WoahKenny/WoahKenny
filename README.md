@@ -1,7 +1,7 @@
 
 
 ### ⭐ &nbsp;Featured
-* [👟 TerrasparkIn1.3](https://github.com/WoahKenny/TerrasparkIn1.3) - Terraspark In 1.3 Terraria Mod
+* [👟 Dripspark Mod](https://github.com/WoahKenny/DripsparkMod) - Dripspark Terraria Mod
 
 ### 👨🏻‍💻 &nbsp;About Me
 
