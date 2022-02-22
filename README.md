@@ -1,7 +1,7 @@
 
 
 ### ⭐ &nbsp;Featured
-* [👟 Dripspark Mod](https://github.com/WoahKenny/DripsparkMod) - Dripspark Terraria Mod
+* [🗿 Golem](https://github.com/WoahKenny/Golem) - Golem Discord Bot Template (djs v.12)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
